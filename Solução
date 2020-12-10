@@ -1,0 +1,6 @@
+Ao indicar o Microsoft Office Excel para a solução, tem que se levar em conta a complexidade dos dados, quantidade de registros que teriam que ser adicionados
+manualmente, impactando com isso na morosidade do processo, dificuldade de se realizar esssas tarefas e a necessidade de geração de relatórios não seria possivel 
+com tal ferramenta, sendo assim, não aconselho o uso do Microsoft Office Excel.
+
+A solução mais recomendada seria a criação de um banco de dados relacional, utilizando o PostgresSql, permitindo assim adicionar dados de vendas, compras, cadastros
+com mais facilidade e segurança, assim como a geração de relatórios ágeis e precisos.
