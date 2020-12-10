@@ -4,3 +4,7 @@ com tal ferramenta, sendo assim, não aconselho o uso do Microsoft Office Excel.
 
 A solução mais recomendada seria a criação de um banco de dados relacional, utilizando o PostgresSql, permitindo assim adicionar dados de vendas, compras, cadastros
 com mais facilidade e segurança, assim como a geração de relatórios ágeis e precisos.
+
+Com essa solução teremos economia de dinheiro com material tendo em vista que não precisaremos fazer esse controle manual, de tempo, pois os funcionários não precisarão
+parar para fazer essas anotações e Sanamos também o risco de erros e esquecimentos aumentando o controle das informações.
+
